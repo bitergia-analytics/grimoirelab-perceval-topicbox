@@ -14,7 +14,7 @@ jobs:
       - name: Build package using Poetry and store result
         uses: chaoss/grimoirelab-github-actions/build@master
         with:
-          artifact-name: perceval-topicbox
+          artifact-name: perceval-topicbox-dist
           artifact-path: dist
 
   tests:
