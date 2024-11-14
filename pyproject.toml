@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "perceval-topicbox"
-version = "0.1.13"
+version = "0.1.14-rc.1"
 description = "Perceval backend for Topicbox"
 authors = [
     "Bitergia Developers"
