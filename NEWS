@@ -1,5 +1,9 @@
 # Releases
 
+  ## perceval-topicbox 0.1.18 - (2025-05-09)
+  
+  * Update Poetry's package dependencies
+
   ## perceval-topicbox 0.1.17 - (2025-04-10)
   
   * Update Poetry's package dependencies
